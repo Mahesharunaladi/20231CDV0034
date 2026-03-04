@@ -1,4 +1,4 @@
-public class Main{
+public class Student{
   public static void main(String[] args){
     name=dog;
     System.out.print(name);
